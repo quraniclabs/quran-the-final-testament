@@ -5,6 +5,7 @@ This repository contains data from Quran: The Final Testament by Dr. Rashad Khal
 
 --------------------------
 **Available formats:**
+
 JSON (JavaScript Object Notation)
 
 XLSX (Excel Workbook)
