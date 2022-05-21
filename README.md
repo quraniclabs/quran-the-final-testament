@@ -14,15 +14,15 @@ CSV UTF-8 (Comma Separated Values)
 --------------------------
 **Main data fields:**
 
-main_index > index (1 > 6,346)
+main_index (1 > 6,346)
 
-unnumbered_index > unnumbered verses (1 > 6,346)
+unnumbered_index
 
-numbered_inex > numbered verses (1 > 6,234)
+numbered_inex 
 
-initials_index > initialed verse index (1 > 3,186)
+initials_index
 
-chapter_title > chapter title (e.g "The Key [Al-Fãtehah]"]
+chapter_title
 
 chapter_number 
 
@@ -39,7 +39,6 @@ verse_english_rk
 verse_transliteration 
 
 verse_header 
-
 
 verse_footnote
 
@@ -67,12 +66,15 @@ numbered_status
 
 --------------------------
 **Quran: The Final Testament**
+
 Authorized English Version
 
 Rashad Khalifa, Ph.D.
+
 Imam, Mosque of Tucson, Arizona, U.S.A.
 
 Copyright © Islamic Productions
 
 MASJID TUCSON توسـَانۡ مَسۡجِدۡ
+
 739 E. 6th St., Tucson, AZ 85719
