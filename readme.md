@@ -15,7 +15,7 @@ CSV UTF-8 (Comma Separated Values)
 --------------------------
 **Main data fields:**
 
-main_index, unnumbered_index, numbered_inex, initials_index, chapter_title, chapter_number, verse_number, verse_id, verse_id_alt, total_verses, verse_english_rk, verse_transliteration, verse_header, verse_footnote, verse_arabic_uthmani, verse_arabic_clean, verse_arabic_mod, verse_arabic_split, verse_wordcount (beta), verse_lettercount (beta), verse_gematricalvalue (beta), initialset, god_occurrence, god_versesum, numbered_status
+main_index, unnumbered_index, numbered_index, initials_index, chapter_title, chapter_number, verse_number, verse_id, verse_id_alt, total_verses, verse_english_rk, verse_transliteration, verse_header, verse_footnote, verse_arabic_uthmani, verse_arabic_clean, verse_arabic_mod, verse_arabic_split, verse_wordcount (beta), verse_lettercount (beta), verse_gematrical_value (beta), initialset, god_occurrence, god_versesum, numbered_status
 
 --------------------------
 **Quran: The Final Testament** Authorized English Version
