@@ -1,12 +1,17 @@
 # quran-the-final-testament
 
+
 This repository contains data from Quran: The Final Testament by Dr. Rashad Khalifa, Ph.D. 
 
+--------------------------
 **Available formats:**
 JSON (JavaScript Object Notation)
+
 XLSX (Excel Workbook)
+
 CSV UTF-8 (Comma Separated Values) 
 
+--------------------------
 **Main data fields:**
 main_index > index (1 > 6,346)
 
