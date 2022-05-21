@@ -66,13 +66,9 @@ god_versesum
 numbered_status
 
 --------------------------
-**Quran: The Final Testament**
+**Quran: The Final Testament** Authorized English Version
 
-Authorized English Version
-
-Rashad Khalifa, Ph.D.
-
-Imam, Mosque of Tucson, Arizona, U.S.A.
+Rashad Khalifa, Ph.D. Imam, Mosque of Tucson, Arizona, U.S.A.
 
 Copyright © Islamic Productions
 
