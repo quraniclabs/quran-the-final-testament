@@ -1,7 +1,7 @@
 # quran-the-final-testament
 
 
-This repository contains data from Quran: The Final Testament by Dr. Rashad Khalifa, Ph.D. 
+This repository contains key data from Quran: The Final Testament by Dr. Rashad Khalifa, Ph.D. 
 
 --------------------------
 **Available formats:**
