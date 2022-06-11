@@ -25,3 +25,5 @@ Copyright © Islamic Productions
 MASJID TUCSON توسـَانۡ مَسۡجِدۡ
 
 739 E. 6th St., Tucson, AZ 85719
+
+*Last updated: 11 June 2022.*
